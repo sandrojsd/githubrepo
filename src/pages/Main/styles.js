@@ -23,6 +23,7 @@ export const Input = styled.TextInput.attrs({
   border-radius: 4px;
   padding: 0 15px;
   border: 1px solid #eee;
+  color: #13131a;
 `;
 
 export const SubmitButton = styled(RectButton)`
